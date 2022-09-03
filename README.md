@@ -2,6 +2,12 @@
 
 Vehicle Keys System For QB-Core (Edited version)
 
+`qb-core/shared/items.lua`
+
+```lua
+['security_system_device'] = {['name'] = 'security_system_device', ['label'] = 'Security System Hacking Device', ['weight'] = 100, ['type'] = 'item', ['image'] = 'security_system_device.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'This device look sus'},
+```
+
 Dependencies: [ps-ui](https://github.com/Project-Sloth/ps-ui)
 
 # License
