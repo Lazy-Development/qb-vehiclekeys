@@ -1,5 +1,8 @@
 # qb-vehiclekeys
-Vehicle Keys System For QB-Core
+
+Vehicle Keys System For QB-Core (Edited version)
+
+Dependencies: [ps-ui](https://github.com/Project-Sloth/ps-ui)
 
 # License
 
